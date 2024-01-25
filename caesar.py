@@ -21,6 +21,7 @@ def caesarchiper(text, mode):
           try:
                if i == " ":
                     r += " "
+                    continue
                else:
                     if mode == "dec":
                          next = (alfabet.index(i.lower()) - shift) % 26
