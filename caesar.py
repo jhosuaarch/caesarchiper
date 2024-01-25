@@ -10,8 +10,6 @@ banner = """ ___ ___ ___ ___ ___ ___
 """
 
 shift = 3
-plaintext = ""
-chipertext = ""
 alfabet = string.ascii_lowercase
 
 
