@@ -8,6 +8,7 @@ banner = """ ___ ___ ___ ___ ___ ___
 |___|__,|___|___|__,|_|  
 \tmade by @jhosua
 """
+
 shift = 3
 plaintext = ""
 chipertext = ""
